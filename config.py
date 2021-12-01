@@ -1,3 +1,3 @@
-api_key = 'C9VFUT3FJM6RPYMNZQWJNQMRSDHUT7ES'
+api_key = 'your key'
 token_path = 'token'
 redirect_uri = 'https://localhost'
